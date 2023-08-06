@@ -27,10 +27,26 @@ const questions = [
         message: 'What is the description for your project?',
     },
     {
-        type: 'input',
+        type: 'list',
         name: 'license',
-        message: 'What license would you like to use?',
-        choices: ''
+        message: 'What kind of license would you like to use?',
+        choices: ['MIT', 'Apache 2.0', 'GPL 3.0', 'BSD 3', 'None'],
+    },
+    {
+        type: 'input',
+        name: 'installation',
+        message: 'What command should be run to handle dependencies?',
+        default: 'npm i',
+    },
+    {
+        type: 'input',
+        name: 'usage',
+        message: 'What does the user need to know about using the repo?',
+    },
+    {
+        type: 'input',
+        name: 'contributing',
+        message: 'What does the user need to know to about contributing to the project?',
     }
 ];
 
