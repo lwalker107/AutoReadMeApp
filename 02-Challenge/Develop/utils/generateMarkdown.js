@@ -41,7 +41,13 @@ ${data.title}
 
 # Table of Contents
 
-${data.TableOfContents}
+- [GitHub](#github)
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [How To Contribute](#howtocontribute)
+- [Tests](#tests)
 
 
 ## GitHub
@@ -60,6 +66,10 @@ ${data.description}
 
 ${data.installation}
 
+## Usage
+
+${data.usage}
+
 ## License
 
 
@@ -73,7 +83,16 @@ ${data.contribution}
 ## Tests
 
 
-${data.tests}`;
+${data.tests}
+
+## Screenshot
+
+${data.screenshot}
+
+## Link 
+
+${data.link}`;
+
 }
 
 module.exports = generateMarkdown;
