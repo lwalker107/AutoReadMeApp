@@ -15,6 +15,8 @@ ReadMe Generator
 - [License](#license)
 - [How To Contribute](#howtocontribute)
 - [Tests](#tests)
+- [Screenshot](#screenshot)
+- [Link](#link)
 
 
 ## GitHub
@@ -25,7 +27,7 @@ lwalker107
 ## Description
 
 
-An application that generates a professional ReadMe file by having the user answer a series of prompts.
+An application that prompts users with a series of questions to help generate a professional readme file for them.
 
 
 ## Installlation 
@@ -35,7 +37,7 @@ npm i
 
 ## Usage
 
-It is easy to use.
+All you need is node.js and a terminal to be able to use the application (well also the actual file for it as well).
 
 ## License
 
@@ -45,16 +47,16 @@ MIT
 ## How to Contribute
 
 
-They need to my GitHub username to message me and they need to have a basic understanding of creating separate branches and being able to push changes to GitHub for me to approve.
+You need to know my GitHub account name, a basic understanding of Git and how to make feature branches and  how to push them to GitHub to be approved by me.
 
 ## Tests
 
 
-
+N/a
 
 ## Screenshot
 
-
+![screenshot](C:\Users\User\OneDrive\python_work\OneDrive\Documents\Bootcamp\homework\WEEK 9 CODING BOOTCAMP\02-Challenge\Develop\Assets\readme_generator.PNG)
 
 ## Link 
 

@@ -48,6 +48,8 @@ ${data.title}
 - [License](#license)
 - [How To Contribute](#howtocontribute)
 - [Tests](#tests)
+- [Screenshot](#screenshot)
+- [Link](#link)
 
 
 ## GitHub
@@ -87,7 +89,7 @@ ${data.tests}
 
 ## Screenshot
 
-${data.screenshot}
+![screenshot](${data.screenshot})
 
 ## Link 
 
