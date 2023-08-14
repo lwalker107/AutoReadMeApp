@@ -55,7 +55,13 @@ ${data.title}
 ## GitHub
 
 
-${data.GitHub}
+[Link](https://www.github.com/${data.GitHub})
+
+
+## Email
+
+${data.email}
+
 
 ## Description
 
