@@ -95,7 +95,7 @@ ${data.tests}
 
 ## Screenshot
 
-![screenshot](${data.screenshot})
+![screenshot](./Assets/${data.screenshot})
 
 ## Link 
 

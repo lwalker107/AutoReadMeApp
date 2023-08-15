@@ -56,7 +56,7 @@ const questions = [
     {
         type: 'input',
         name: 'screenshot',
-        message: 'Provide the path to a screenshot of your deployed application: ',
+        message: 'Provide the screenshot link of your deployed application: ',
     },
     {
         type: 'input',
